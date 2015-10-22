@@ -1,0 +1,23 @@
+name: ESBretl
+favicon: null
+layout_spectrum: 0.042743939673528075
+typography_spectrum: 0.8657184306066483
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.19382159784436226
+  lightness: 0.8860902504529804
+  saturation: 0.3960697930306196
+  rhythmicContrast: 0.382251154165715
+purpose: []
